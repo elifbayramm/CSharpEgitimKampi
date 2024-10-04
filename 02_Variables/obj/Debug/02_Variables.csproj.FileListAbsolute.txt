@@ -1,0 +1,7 @@
+C:\Users\Elf\Desktop\C# Eğitim Kampı\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe.config
+C:\Users\Elf\Desktop\C# Eğitim Kampı\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe
+C:\Users\Elf\Desktop\C# Eğitim Kampı\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.pdb
+C:\Users\Elf\Desktop\C# Eğitim Kampı\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+C:\Users\Elf\Desktop\C# Eğitim Kampı\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\Elf\Desktop\C# Eğitim Kampı\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.exe
+C:\Users\Elf\Desktop\C# Eğitim Kampı\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.pdb
