@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DCD9F7E3-4008-43AD-AD60-27CD984AA6E5}|03_MakingDecision\\03_MakingDecision.csproj|c:\\users\\elf\\documents\\github\\csharpegitimkampi\\03_makingdecision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCD9F7E3-4008-43AD-AD60-27CD984AA6E5}|03_MakingDecision\\03_MakingDecision.csproj|solutionrelative:03_makingdecision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C4FCEF8-A5BF-4FDE-8A20-42D4BEE556F8}|LoopsWithStarts\\05_LoopsWithStarts.csproj|c:\\users\\elf\\documents\\github\\csharpegitimkampi\\loopswithstarts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4FCEF8-A5BF-4FDE-8A20-42D4BEE556F8}|LoopsWithStarts\\05_LoopsWithStarts.csproj|solutionrelative:loopswithstarts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\03_MakingDecision\\Program.cs",
-              "RelativeDocumentMoniker": "03_MakingDecision\\Program.cs",
-              "ToolTip": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\03_MakingDecision\\Program.cs",
-              "RelativeToolTip": "03_MakingDecision\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgBAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\LoopsWithStarts\\Program.cs",
+              "RelativeDocumentMoniker": "LoopsWithStarts\\Program.cs",
+              "ToolTip": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\LoopsWithStarts\\Program.cs",
+              "RelativeToolTip": "LoopsWithStarts\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAgwKIAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T14:00:50.213Z",
+              "WhenOpened": "2024-10-14T17:58:42.913Z",
               "EditorCaption": ""
             }
           ]
