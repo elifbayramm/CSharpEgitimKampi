@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C4FCEF8-A5BF-4FDE-8A20-42D4BEE556F8}|LoopsWithStarts\\05_LoopsWithStarts.csproj|c:\\users\\elf\\documents\\github\\csharpegitimkampi\\loopswithstarts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C4FCEF8-A5BF-4FDE-8A20-42D4BEE556F8}|LoopsWithStarts\\05_LoopsWithStarts.csproj|solutionrelative:loopswithstarts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88EBC8BD-1A98-4F7F-B9C4-9179C6CBADE4}|06_Arrays\\06_Arrays.csproj|c:\\users\\elf\\documents\\github\\csharpegitimkampi\\06_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EBC8BD-1A98-4F7F-B9C4-9179C6CBADE4}|06_Arrays\\06_Arrays.csproj|solutionrelative:06_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\LoopsWithStarts\\Program.cs",
-              "RelativeDocumentMoniker": "LoopsWithStarts\\Program.cs",
-              "ToolTip": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\LoopsWithStarts\\Program.cs",
-              "RelativeToolTip": "LoopsWithStarts\\Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAgwKIAAAAWAAAA",
+              "DocumentMoniker": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\06_Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "06_Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\06_Arrays\\Program.cs",
+              "RelativeToolTip": "06_Arrays\\Program.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAgwJ4AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T17:58:42.913Z",
+              "WhenOpened": "2024-10-14T18:40:31.63Z",
               "EditorCaption": ""
             }
           ]

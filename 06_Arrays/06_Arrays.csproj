@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5C4FCEF8-A5BF-4FDE-8A20-42D4BEE556F8}</ProjectGuid>
+    <ProjectGuid>{88EBC8BD-1A98-4F7F-B9C4-9179C6CBADE4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LoopsWithStarts</RootNamespace>
-    <AssemblyName>LoopsWithStarts</AssemblyName>
+    <RootNamespace>_06_Arrays</RootNamespace>
+    <AssemblyName>06_Arrays</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
