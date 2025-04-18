@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi301\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{555AD7A3-9C61-4EF2-8E2D-2EA6AC8EA1AF}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\users\\elf\\documents\\github\\csharpegitimkampi\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{555AD7A3-9C61-4EF2-8E2D-2EA6AC8EA1AF}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{555AD7A3-9C61-4EF2-8E2D-2EA6AC8EA1AF}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\users\\elf\\documents\\github\\csharpegitimkampi\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\frmlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555AD7A3-9C61-4EF2-8E2D-2EA6AC8EA1AF}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\frmlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555AD7A3-9C61-4EF2-8E2D-2EA6AC8EA1AF}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\users\\elf\\documents\\github\\csharpegitimkampi\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\frmlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{555AD7A3-9C61-4EF2-8E2D-2EA6AC8EA1AF}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\frmlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,13 +23,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Form1.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\Form1.cs",
-              "ToolTip": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Form1.cs [Design]",
-              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\Form1.cs [Design]",
+              "Title": "FrmLocation.cs",
+              "DocumentMoniker": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
+              "ToolTip": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAhwEUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T15:25:19.586Z",
+              "WhenOpened": "2025-04-18T16:56:05.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmLocation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\FrmLocation.cs",
+              "ToolTip": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmLocation.cs [Design]",
+              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\FrmLocation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:44:24.458Z",
               "EditorCaption": " [Design]"
             }
           ]
