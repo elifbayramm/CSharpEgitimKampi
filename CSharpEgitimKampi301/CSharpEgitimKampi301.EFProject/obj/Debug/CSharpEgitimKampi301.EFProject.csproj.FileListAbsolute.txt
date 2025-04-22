@@ -14,3 +14,4 @@ C:\Users\Elf\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgiti
 C:\Users\Elf\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.exe
 C:\Users\Elf\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.pdb
 C:\Users\Elf\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.FrmLocation.resources
+C:\Users\Elf\Documents\GitHub\CSharpEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.FrmStatistics.resources
