@@ -27,3 +27,25 @@ Bu projede, geri değer döndürme fonksiyonlarla çalıştım. Kullanıcıdan a
 
 ## ✧ Proje 9: Veritabanı Tabanlı Ürün-Kategori Bilgi Sistemi
 Bu projede, veritabanı ile veri aktarımı yapmayı ve veritabanından veri çekmeyi öğrendim. Kullanıcıdan tablo seçimini alarak, ilgili bilgileri ekranda listeleyen bir uygulama geliştirdim. SqlConnection ve SqlCommand sınıfları ile veritabanına bağlanıp, SQL sorguları çalıştırarak verileri işledim. Bu proje sayesinde, veritabanı işlemleri ve veri yönetimi hakkında önemli bilgiler kazandım. 🗃️
+
+## ✧ Proje 10: Stok Yönetim Sistemi
+Bu projede, temel CRUD (Oluştur, Oku, Güncelle, Sil) işlemleri kullanarak bir stok yönetim sistemi geliştirdim. SQL bağlantısı aracılığıyla ürün ve kategori ekleme, listeleme, güncelleme ve silme işlemlerini başarıyla gerçekleştirdim. Bu proje sayesinde SQL komutlarıyla veritabanına veri eklemeyi, düzenlemeyi ve silmeyi öğrendim. 📊
+
+## ✧ Proje 11: EfTravel İstatistik Paneli
+![Ekran görüntüsü 2025-04-29 192235](https://github.com/user-attachments/assets/e84df011-467b-4036-b604-59862ab91031)
+
+Bu projede, Entity Framework kullanarak seyahat veri bilgilerini sorgulayan ve görselleştiren bir istatistik paneli geliştirdim. Proje, Windows Forms platformunda kullanıcıların çeşitli seyahat verilerini canlı olarak görüntülemelerini sağlamayı amaçladı. 💻
+
+Proje özellikleri:
+
+✔️ Seyahat bölgesindeki toplam konum sayısı, kapasite, rehber sayısı gibi genel bilgilerin gösterimi.
+
+✔️ Seyahat turlarındaki kapasite, fiyat gibi değerlerin görsel sunumu.
+
+✔️ Belirli bir şehir veya ülke için özel filtreleme yapabilme.
+
+✔️ En yüksek kapasite ve fiyat değerlerine sahip şehirlerin tespit edilmesi.
+
+✔️ Her tur için rehberlerin sorumlu olduğu grupların belirlenmesi.
+
+Windows Forms uygulaması üzerinde, kullanıcı dostu bir arayüz tasarlayarak verileri görselleştirdim ve kullanıcıların kolayca anlayabileceği şekilde sunum yapmayı başardım. Sorgu optimizasyonları ile verilerin hızlı ve etkili şekilde işlenmesini sağladım. 
