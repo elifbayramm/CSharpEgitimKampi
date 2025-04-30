@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi501\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4557A52D-F5BF-48C9-B879-FB95430332BA}|CSharpEgitimKampi501.csproj|c:\\users\\elf\\documents\\github\\csharpegitimkampi\\csharpegitimkampi501\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4557A52D-F5BF-48C9-B879-FB95430332BA}|CSharpEgitimKampi501.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4557A52D-F5BF-48C9-B879-FB95430332BA}|CSharpEgitimKampi501.csproj|C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi501\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4557A52D-F5BF-48C9-B879-FB95430332BA}|CSharpEgitimKampi501.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4557A52D-F5BF-48C9-B879-FB95430332BA}|CSharpEgitimKampi501.csproj|C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi501\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4557A52D-F5BF-48C9-B879-FB95430332BA}|CSharpEgitimKampi501.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4557A52D-F5BF-48C9-B879-FB95430332BA}|CSharpEgitimKampi501.csproj|C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi501\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4557A52D-F5BF-48C9-B879-FB95430332BA}|CSharpEgitimKampi501.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4557A52D-F5BF-48C9-B879-FB95430332BA}|CSharpEgitimKampi501.csproj|C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi501\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4557A52D-F5BF-48C9-B879-FB95430332BA}|CSharpEgitimKampi501.csproj|solutionrelative:dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4557A52D-F5BF-48C9-B879-FB95430332BA}|CSharpEgitimKampi501.csproj|C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi501\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4557A52D-F5BF-48C9-B879-FB95430332BA}|CSharpEgitimKampi501.csproj|solutionrelative:dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4557A52D-F5BF-48C9-B879-FB95430332BA}|CSharpEgitimKampi501.csproj|C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi501\\dtos\\resultproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4557A52D-F5BF-48C9-B879-FB95430332BA}|CSharpEgitimKampi501.csproj|solutionrelative:dtos\\resultproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4557A52D-F5BF-48C9-B879-FB95430332BA}|CSharpEgitimKampi501.csproj|C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi501\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4557A52D-F5BF-48C9-B879-FB95430332BA}|CSharpEgitimKampi501.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -48,81 +32,22 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi501\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAawBUAAAAAAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAADwv0wAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T14:04:05.845Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi501\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi501\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "Repositories\\ProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T14:03:28.878Z",
+              "WhenOpened": "2025-04-29T14:04:05.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi501\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi501\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "Repositories\\IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T13:58:40.408Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UpdateProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi501\\Dtos\\UpdateProductDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\UpdateProductDto.cs",
-              "ToolTip": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi501\\Dtos\\UpdateProductDto.cs",
-              "RelativeToolTip": "Dtos\\UpdateProductDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T13:56:45.067Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi501\\Dtos\\CreateProductDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\CreateProductDto.cs",
-              "ToolTip": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi501\\Dtos\\CreateProductDto.cs",
-              "RelativeToolTip": "Dtos\\CreateProductDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T13:54:36.338Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ResultProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi501\\Dtos\\ResultProductDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\ResultProductDto.cs",
-              "ToolTip": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi501\\Dtos\\ResultProductDto.cs",
-              "RelativeToolTip": "Dtos\\ResultProductDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T13:52:49.64Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi501\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Elf\\source\\repos\\CSharpEgitimKampi501\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\CSharpEgitimKampi501\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Elf\\Documents\\GitHub\\CSharpEgitimKampi\\CSharpEgitimKampi501\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T13:44:07.545Z"
+              "WhenOpened": "2025-04-29T13:44:07.545Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
