@@ -1,0 +1,17 @@
+C:\Users\Elf\Documents\GitHub\CSharpEgitimKampi\MyFinancialCrm\bin\Debug\MyFinancialCrm.exe.config
+C:\Users\Elf\Documents\GitHub\CSharpEgitimKampi\MyFinancialCrm\bin\Debug\MyFinancialCrm.exe
+C:\Users\Elf\Documents\GitHub\CSharpEgitimKampi\MyFinancialCrm\bin\Debug\MyFinancialCrm.pdb
+C:\Users\Elf\Documents\GitHub\CSharpEgitimKampi\MyFinancialCrm\obj\Debug\MyFinancialCrm.csproj.AssemblyReference.cache
+C:\Users\Elf\Documents\GitHub\CSharpEgitimKampi\MyFinancialCrm\obj\Debug\MyFinancialCrm.FrmBanks.resources
+C:\Users\Elf\Documents\GitHub\CSharpEgitimKampi\MyFinancialCrm\obj\Debug\MyFinancialCrm.Properties.Resources.resources
+C:\Users\Elf\Documents\GitHub\CSharpEgitimKampi\MyFinancialCrm\obj\Debug\MyFinancialCrm.csproj.GenerateResource.cache
+C:\Users\Elf\Documents\GitHub\CSharpEgitimKampi\MyFinancialCrm\obj\Debug\MyFinancialCrm.csproj.CoreCompileInputs.cache
+C:\Users\Elf\Documents\GitHub\CSharpEgitimKampi\MyFinancialCrm\obj\Debug\MyFinancialCrm.exe
+C:\Users\Elf\Documents\GitHub\CSharpEgitimKampi\MyFinancialCrm\obj\Debug\MyFinancialCrm.pdb
+C:\Users\Elf\Documents\GitHub\CSharpEgitimKampi\MyFinancialCrm\bin\Debug\EntityFramework.dll
+C:\Users\Elf\Documents\GitHub\CSharpEgitimKampi\MyFinancialCrm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Elf\Documents\GitHub\CSharpEgitimKampi\MyFinancialCrm\bin\Debug\EntityFramework.xml
+C:\Users\Elf\Documents\GitHub\CSharpEgitimKampi\MyFinancialCrm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Elf\Documents\GitHub\CSharpEgitimKampi\MyFinancialCrm\obj\Debug\MyFinanc.E69AA6D0.Up2Date
+C:\Users\Elf\Documents\GitHub\CSharpEgitimKampi\MyFinancialCrm\obj\Debug\MyFinancialCrm.FrmBilling.resources
+C:\Users\Elf\Documents\GitHub\CSharpEgitimKampi\MyFinancialCrm\obj\Debug\MyFinancialCrm.FrmDashboard.resources
